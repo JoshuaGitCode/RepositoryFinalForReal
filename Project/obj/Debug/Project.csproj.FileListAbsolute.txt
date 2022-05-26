@@ -1,0 +1,11 @@
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\bin\Debug\Project.exe.config
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\bin\Debug\Project.exe
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\bin\Debug\Project.pdb
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.Form1.resources
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.Properties.Resources.resources
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.csproj.GenerateResource.cache
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.exe
+F:\LATTC\2022 Spring\CS 111\Homeworks\JoshuaDuchene_Lab8\Project\obj\Debug\Project.pdb
